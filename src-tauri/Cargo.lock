@@ -2827,7 +2827,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "template-tauri-app"
+name = "template-tauri-vike-app"
 version = "0.0.0"
 dependencies = [
  "serde",

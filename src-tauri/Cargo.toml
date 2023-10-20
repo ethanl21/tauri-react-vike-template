@@ -1,7 +1,7 @@
 [package]
-name = "template-tauri-app"
+name = "template-tauri-vike-app"
 version = "0.0.0"
-description = "A Tauri App"
+description = "A Tauri App using React and Vike"
 authors = ["you"]
 license = ""
 repository = ""

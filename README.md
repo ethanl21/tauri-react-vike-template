@@ -36,6 +36,7 @@ pnpm run tauri dev
 - Replace the bundle identifier in `src-tauri/tauri.conf.json`
 - Replace the product name in `src-tauri/tauri.conf.json`
 - Change the `name` field in `package.json`
+- Replace `LICENSE` if desired
 
 ## Included Scripts
 

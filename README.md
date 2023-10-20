@@ -4,7 +4,7 @@ This template should help get you started developing desktop apps with React, Ty
 
 ## Features
 
-- [Vite](http://vitejs.dev) with [React](http://react.dev) and [TypeScript](https://www.typescriptlang.org)
+- [Vite](http://vitejs.dev) with [React](http://react.dev), [TypeScript](https://www.typescriptlang.org), and absolute imports
 - [ESLint](https://eslint.org) and [Prettier](https://prettier.io), along with [Husky](https://github.com/typicode/husky) and [lint-staged](https://github.com/lint-staged/lint-staged)
 - [Vike](https://vike.dev) and [vike-react](https://github.com/vikejs/vike-react) for SSG and routing
 - [Tauri](https://tauri.app) to create a desktop app
